@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ocswg2b6n-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ocswg2b6n-python
